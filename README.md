@@ -1,37 +1,27 @@
-# CISC7204 Coursework
+# CISC7204 · Data Science & Data Visualization
 
-Selected coursework by WEI ZIMING for CISC7204 Data Science and Data Visualization (2026).
+A browsable collection of my course exercises and assignments. The [live portfolio](https://weiziming369.github.io/data-science-portfolio/) highlights selected results and the separate [Iris analysis project](https://github.com/WEIZIMING369/data-science-project).
 
-## Suggested Exercises 01–10
+## Suggested Exercises
 
-These archives contain the source notebooks, scripts, and supporting text or data for each exercise. Notebook outputs and screenshots were omitted from these public copies; the original local submissions are unchanged. Student identifiers and machine-specific paths were removed from the added source files.
+| Exercise | Focus | Open |
+|---|---|---|
+| 01 | Python scripts and introductory practice | [View](exercises/exercise-01/) |
+| 02 | Python basics and data structures | [View](exercises/exercise-02/) |
+| 03 | NumPy and distributions | [View](exercises/exercise-03/) |
+| 04 | Exploratory analysis and statistics | [View](exercises/exercise-04/) |
+| 05 | EDA across multiple datasets | [View](exercises/exercise-05/) |
+| 06 | Data visualization activities | [View](exercises/exercise-06/) |
+| 07 | Visual design and comparison | [View](exercises/exercise-07/) |
+| 08 | Storytelling and visualization | [View](exercises/exercise-08/) |
+| 09 | Interactive Bokeh and widgets | [View](exercises/exercise-09/) |
+| 10 | PCA and dimensionality reduction | [View](exercises/exercise-10/) |
 
-- [Suggested Exercise 01](suggested-exercise-01.zip)
-- [Suggested Exercise 02](suggested-exercise-02.zip)
-- [Suggested Exercise 03](suggested-exercise-03.zip)
-- [Suggested Exercise 04](suggested-exercise-04.zip)
-- [Suggested Exercise 05](suggested-exercise-05.zip)
-- [Suggested Exercise 06](suggested-exercise-06.zip)
-- [Suggested Exercise 07](suggested-exercise-07.zip)
-- [Suggested Exercise 08](suggested-exercise-08.zip)
-- [Suggested Exercise 09](suggested-exercise-09.zip)
-- [Suggested Exercise 10](suggested-exercise-10.zip)
+## Assignments
 
-Suggested Exercise 09 is included from the local folder even though the Moodle assignment submission page shows no uploaded file for that exercise.
+- [Assignment 01](assignments/assignment-01/) — data analysis and model development, with six modules.
+- [Assignment 02](Module01/) — data visualization coursework. Browse [Modules 01–04](Module01/), [practice project](Module05Practice/) and [final project](Module05Final/).
 
-## Assignment 01
+The Exercise and Assignment 01 folders contain source archives with notebooks, scripts and supporting data. Existing Assignment 02 module files remain browsable in the repository. Suggested Exercise 09 was supplied from the local folder; its Moodle assignment page showed no uploaded submission when checked.
 
-- [Assignment 01 source notebooks and supporting data](assignment-01.zip)
-
-## Assignment 02
-
-- [Module 01: Introduction to Data Visualization](Module01)
-- [Module 02: Basic and Specialized Visualization Tools](Module02)
-- [Module 03: Advanced Visualizations and Geospatial Data](Module03)
-- [Module 04: Plotly and Dash](Module04)
-- [Module 05: Practice Project](Module05Practice)
-- [Module 05: Final Project](Module05Final)
-
-The Assignment 02 modules predate this update and include their original notebooks, data, and screenshots. The pair's revised project proposal is [here](CISC7204-Assgn02-Pair08-RevisedProjectProposal.docx). For Dash projects, extract the ZIP, install the dependencies used by the script, and run the included Python file from its project directory.
-
-These exercises and assignments are coursework examples. See the separate [Iris analysis project](https://github.com/WEIZIMING369/data-science-project) for an end-to-end, documented and reproducible analysis.
+Coursework is presented as learning evidence. The Iris repository provides a separate end-to-end analysis with methods, findings and reproduction instructions.
