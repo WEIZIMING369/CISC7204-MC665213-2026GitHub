@@ -20,8 +20,8 @@ A browsable collection of my course exercises and assignments. The [live portfol
 ## Assignments
 
 - [Assignment 01](assignments/assignment-01/) — data analysis and model development, with six modules.
-- [Assignment 02](Module01/) — data visualization coursework. Browse [Modules 01–04](Module01/), [practice project](Module05Practice/) and [final project](Module05Final/).
+- [Assignment 02](assignments/assignment-02/) — data visualization coursework, with [Modules 01–04](assignments/assignment-02/Module01/), [practice project](assignments/assignment-02/Module05Practice/) and [final project](assignments/assignment-02/Module05Final/).
 
-The Exercise and Assignment 01 folders contain source archives with notebooks, scripts and supporting data. Existing Assignment 02 module files remain browsable in the repository. Suggested Exercise 09 was supplied from the local folder; its Moodle assignment page showed no uploaded submission when checked.
+Exercise and Assignment 01 folders contain source archives with notebooks, scripts and supporting data. Assignment 02 notebooks, datasets and scripts are browsable inside their module folders. Suggested Exercise 09 was supplied from the local folder; its Moodle assignment page showed no uploaded submission when checked.
 
 Coursework is presented as learning evidence. The Iris repository provides a separate end-to-end analysis with methods, findings and reproduction instructions.
