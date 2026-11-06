@@ -1,6 +1,6 @@
 # CISC7204 · Data Science & Data Visualization
 
-A browsable collection of my course exercises and assignments. The [live portfolio](https://weiziming369.github.io/data-science-portfolio/) highlights selected results and the separate [Iris analysis project](https://github.com/WEIZIMING369/data-science-project).
+Source files for my CISC7204 exercises and assignments. [View the coursework portfolio](https://weiziming369.github.io/cisc7204-portfolio/).
 
 ## Suggested Exercises
 
@@ -20,8 +20,6 @@ A browsable collection of my course exercises and assignments. The [live portfol
 ## Assignments
 
 - [Assignment 01](assignments/assignment-01/) — data analysis and model development, with six modules.
-- [Assignment 02](assignments/assignment-02/) — data visualization coursework, with [Modules 01–04](assignments/assignment-02/Module01/), [practice project](assignments/assignment-02/Module05Practice/) and [final project](assignments/assignment-02/Module05Final/).
+- [Assignment 02](assignments/assignment-02/) — visualization coursework organized by module, practice project and final project.
 
-Exercise and Assignment 01 folders contain source archives with notebooks, scripts and supporting data. Assignment 02 notebooks, datasets and scripts are browsable inside their module folders. Suggested Exercise 09 was supplied from the local folder; its Moodle assignment page showed no uploaded submission when checked.
-
-Coursework is presented as learning evidence. The Iris repository provides a separate end-to-end analysis with methods, findings and reproduction instructions.
+Exercises and Assignment 01 include source archives. Assignment 02 notebooks, scripts and supporting data are browsable by module.
